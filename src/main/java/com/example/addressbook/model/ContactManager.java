@@ -3,6 +3,9 @@ package com.example.addressbook.model;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Class used for TDD
+ */
 public class ContactManager {
 
     private IContactDAO iContactDAO;
