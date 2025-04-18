@@ -11,7 +11,8 @@ import javafx.scene.layout.VBox;
 
 import java.util.List;
 
-public class MainController {
+public class
+MainController {
     @FXML
     private ListView<Contact> contactsListView;
     private IContactDAO contactDAO;

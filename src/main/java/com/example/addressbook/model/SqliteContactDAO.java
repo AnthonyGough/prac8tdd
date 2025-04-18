@@ -4,7 +4,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SqliteContactDAO implements IContactDAO {
+public class  SqliteContactDAO implements IContactDAO {
     private Connection connection;
 
     public SqliteContactDAO() {
